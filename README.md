@@ -4,7 +4,7 @@ Source code for the TrumChuk digital instrument prototype, created by Alex Dudle
 
 alex.w.dudley@googlemail.com
 
-alexdudley.bandcamp.com
+http://alexdudley.bandcamp.com
 
 Setup:
 ======
